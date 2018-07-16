@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: de.codecentric:spring-boot-admin-client:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/codecentric/spring-boot-admin-client/unknown/spring-boot-admin-client-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/de/codecentric/spring-boot-admin-client/unknown/spring-boot-admin-client-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/codecentric/spring-boot-admin-client/unknown/spring-boot-admin-client-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
